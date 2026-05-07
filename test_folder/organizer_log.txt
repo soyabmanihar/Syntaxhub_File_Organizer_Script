@@ -1,0 +1,7 @@
+
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\archive.zip --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Archives\archive.zip
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\image1.jpg --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Images\image1.jpg
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\notes.txt --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Documents\notes.txt
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\report.pdf --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Documents\report.pdf
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\script_copy.py --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Others\script_copy.py
+2026-05-07 19:56:08 | A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\song.mp3 --> A:\coding\python\syntaxhub\week2\File_organizer_script\test_folder\Audio\song.mp3
